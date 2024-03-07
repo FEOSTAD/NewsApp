@@ -11,18 +11,18 @@ data class Page(
 
 val pages = listOf(
     Page(
-        title = "‘Voter suppression’ rumors denied",
-        description = "The government on Sunday refuted rumors circulating on social media claiming that the government was planning to change..",
+        title = "Kuwait opens investment conf in London",
+        description = "LONDON: A Kuwait investment conference was launched in London on Tuesday as part of celebrations of 125 years of Kuwait-UK..",
         image = R.drawable.onboarding1
     ),
     Page(
-        title = "Expat numbers surge to 68.3% of Kuwait’s population",
-        description = "The total number of non-Kuwaiti residents in Kuwait has witnessed a significant increase, constituting 68.3 percent..",
+        title = "Kane’s double powers Bayern into Champions League last 8",
+        description = "MUNICH: Harry Kane scored a goal in each half as Bayern Munich beat Lazio 3-0 on Tuesday to reach the Champions League..",
         image = R.drawable.onboarding2
     ),
     Page(
-        title = "PM receives invitation from Saudi Crown Prince to visit the Kingdom",
-        description = "His Highness the Prime Minister Sheikh .....",
+        title = "Home gardening: A labor of love",
+        description = "With its vibrantly colorful fruits, blissfully scented flowers and mouthwatering fresh vegetables, the backyard garden..",
         image = R.drawable.onboarding3
     )
 )

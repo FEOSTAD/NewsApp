@@ -3,8 +3,7 @@ package com.example.newsapp.presentation.navgraph
 import androidx.navigation.NamedNavArgument
 
 sealed class Route(
-    val route: String,
-    val arguments: List<NamedNavArgument> = emptyList()
+    val route: String
 ) {
     object OnBoardingScreen : Route(route = "onBoardingScreen")
 
